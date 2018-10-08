@@ -19,7 +19,7 @@
   <macros>
     <include_parent_macros>false</include_parent_macros>
     <CRATE01-SLOT01_AREA>XX-01SL01:</CRATE01-SLOT01_AREA>
-    <CRATE01-SLOT01_DEVICE>DI-BPM:</CRATE01-SLOT01_DEVICE>
+    <CRATE01-SLOT01_DEVICE>TI-EVR:</CRATE01-SLOT01_DEVICE>
     <CRATE01-SLOT02_AREA>XX-01SL02:</CRATE01-SLOT02_AREA>
     <CRATE01-SLOT02_DEVICE>DI-BPM:</CRATE01-SLOT02_DEVICE>
     <CRATE01-SLOT03_AREA>XX-01SL03:</CRATE01-SLOT03_AREA>
@@ -67,7 +67,7 @@
     <CRATE01-SLOT24_AREA>XX-01SL24:</CRATE01-SLOT24_AREA>
     <CRATE01-SLOT24_DEVICE>DI-BPM:</CRATE01-SLOT24_DEVICE>
     <CRATE02-SLOT01_AREA>XX-02SL01:</CRATE02-SLOT01_AREA>
-    <CRATE02-SLOT01_DEVICE>DI-BPM:</CRATE02-SLOT01_DEVICE>
+    <CRATE02-SLOT01_DEVICE>TI-EVR:</CRATE02-SLOT01_DEVICE>
     <CRATE02-SLOT02_AREA>XX-02SL02:</CRATE02-SLOT02_AREA>
     <CRATE02-SLOT02_DEVICE>DI-BPM:</CRATE02-SLOT02_DEVICE>
     <CRATE02-SLOT03_AREA>XX-02SL03:</CRATE02-SLOT03_AREA>
@@ -115,7 +115,7 @@
     <CRATE02-SLOT24_AREA>XX-02SL24:</CRATE02-SLOT24_AREA>
     <CRATE02-SLOT24_DEVICE>DI-BPM:</CRATE02-SLOT24_DEVICE>
     <CRATE03-SLOT01_AREA>XX-03SL01:</CRATE03-SLOT01_AREA>
-    <CRATE03-SLOT01_DEVICE>DI-BPM:</CRATE03-SLOT01_DEVICE>
+    <CRATE03-SLOT01_DEVICE>TI-EVR:</CRATE03-SLOT01_DEVICE>
     <CRATE03-SLOT02_AREA>XX-03SL02:</CRATE03-SLOT02_AREA>
     <CRATE03-SLOT02_DEVICE>DI-BPM:</CRATE03-SLOT02_DEVICE>
     <CRATE03-SLOT03_AREA>XX-03SL03:</CRATE03-SLOT03_AREA>
@@ -163,7 +163,7 @@
     <CRATE03-SLOT24_AREA>XX-03SL24:</CRATE03-SLOT24_AREA>
     <CRATE03-SLOT24_DEVICE>DI-BPM:</CRATE03-SLOT24_DEVICE>
     <CRATE04-SLOT01_AREA>XX-04SL01:</CRATE04-SLOT01_AREA>
-    <CRATE04-SLOT01_DEVICE>DI-BPM:</CRATE04-SLOT01_DEVICE>
+    <CRATE04-SLOT01_DEVICE>TI-EVR:</CRATE04-SLOT01_DEVICE>
     <CRATE04-SLOT02_AREA>XX-04SL02:</CRATE04-SLOT02_AREA>
     <CRATE04-SLOT02_DEVICE>DI-BPM:</CRATE04-SLOT02_DEVICE>
     <CRATE04-SLOT03_AREA>XX-04SL03:</CRATE04-SLOT03_AREA>
@@ -211,7 +211,7 @@
     <CRATE04-SLOT24_AREA>XX-04SL24:</CRATE04-SLOT24_AREA>
     <CRATE04-SLOT24_DEVICE>DI-BPM:</CRATE04-SLOT24_DEVICE>
     <CRATE05-SLOT01_AREA>XX-05SL01:</CRATE05-SLOT01_AREA>
-    <CRATE05-SLOT01_DEVICE>DI-BPM:</CRATE05-SLOT01_DEVICE>
+    <CRATE05-SLOT01_DEVICE>TI-EVR:</CRATE05-SLOT01_DEVICE>
     <CRATE05-SLOT02_AREA>XX-05SL02:</CRATE05-SLOT02_AREA>
     <CRATE05-SLOT02_DEVICE>DI-BPM:</CRATE05-SLOT02_DEVICE>
     <CRATE05-SLOT03_AREA>XX-05SL03:</CRATE05-SLOT03_AREA>
@@ -259,7 +259,7 @@
     <CRATE05-SLOT24_AREA>XX-05SL24:</CRATE05-SLOT24_AREA>
     <CRATE05-SLOT24_DEVICE>DI-BPM:</CRATE05-SLOT24_DEVICE>
     <CRATE06-SLOT01_AREA>XX-06SL01:</CRATE06-SLOT01_AREA>
-    <CRATE06-SLOT01_DEVICE>DI-BPM:</CRATE06-SLOT01_DEVICE>
+    <CRATE06-SLOT01_DEVICE>TI-EVR:</CRATE06-SLOT01_DEVICE>
     <CRATE06-SLOT02_AREA>XX-06SL02:</CRATE06-SLOT02_AREA>
     <CRATE06-SLOT02_DEVICE>DI-BPM:</CRATE06-SLOT02_DEVICE>
     <CRATE06-SLOT03_AREA>XX-06SL03:</CRATE06-SLOT03_AREA>
@@ -307,7 +307,7 @@
     <CRATE06-SLOT24_AREA>XX-06SL24:</CRATE06-SLOT24_AREA>
     <CRATE06-SLOT24_DEVICE>DI-BPM:</CRATE06-SLOT24_DEVICE>
     <CRATE07-SLOT01_AREA>XX-07SL01:</CRATE07-SLOT01_AREA>
-    <CRATE07-SLOT01_DEVICE>DI-BPM:</CRATE07-SLOT01_DEVICE>
+    <CRATE07-SLOT01_DEVICE>TI-EVR:</CRATE07-SLOT01_DEVICE>
     <CRATE07-SLOT02_AREA>XX-07SL02:</CRATE07-SLOT02_AREA>
     <CRATE07-SLOT02_DEVICE>DI-BPM:</CRATE07-SLOT02_DEVICE>
     <CRATE07-SLOT03_AREA>XX-07SL03:</CRATE07-SLOT03_AREA>
@@ -355,7 +355,7 @@
     <CRATE07-SLOT24_AREA>XX-07SL24:</CRATE07-SLOT24_AREA>
     <CRATE07-SLOT24_DEVICE>DI-BPM:</CRATE07-SLOT24_DEVICE>
     <CRATE08-SLOT01_AREA>XX-08SL01:</CRATE08-SLOT01_AREA>
-    <CRATE08-SLOT01_DEVICE>DI-BPM:</CRATE08-SLOT01_DEVICE>
+    <CRATE08-SLOT01_DEVICE>TI-EVR:</CRATE08-SLOT01_DEVICE>
     <CRATE08-SLOT02_AREA>XX-08SL02:</CRATE08-SLOT02_AREA>
     <CRATE08-SLOT02_DEVICE>DI-BPM:</CRATE08-SLOT02_DEVICE>
     <CRATE08-SLOT03_AREA>XX-08SL03:</CRATE08-SLOT03_AREA>
@@ -403,7 +403,7 @@
     <CRATE08-SLOT24_AREA>XX-08SL24:</CRATE08-SLOT24_AREA>
     <CRATE08-SLOT24_DEVICE>DI-BPM:</CRATE08-SLOT24_DEVICE>
     <CRATE09-SLOT01_AREA>XX-09SL01:</CRATE09-SLOT01_AREA>
-    <CRATE09-SLOT01_DEVICE>DI-BPM:</CRATE09-SLOT01_DEVICE>
+    <CRATE09-SLOT01_DEVICE>TI-EVR:</CRATE09-SLOT01_DEVICE>
     <CRATE09-SLOT02_AREA>XX-09SL02:</CRATE09-SLOT02_AREA>
     <CRATE09-SLOT02_DEVICE>DI-BPM:</CRATE09-SLOT02_DEVICE>
     <CRATE09-SLOT03_AREA>XX-09SL03:</CRATE09-SLOT03_AREA>
@@ -451,7 +451,7 @@
     <CRATE09-SLOT24_AREA>XX-09SL24:</CRATE09-SLOT24_AREA>
     <CRATE09-SLOT24_DEVICE>DI-BPM:</CRATE09-SLOT24_DEVICE>
     <CRATE10-SLOT01_AREA>XX-10SL01:</CRATE10-SLOT01_AREA>
-    <CRATE10-SLOT01_DEVICE>DI-BPM:</CRATE10-SLOT01_DEVICE>
+    <CRATE10-SLOT01_DEVICE>TI-EVR:</CRATE10-SLOT01_DEVICE>
     <CRATE10-SLOT02_AREA>XX-10SL02:</CRATE10-SLOT02_AREA>
     <CRATE10-SLOT02_DEVICE>DI-BPM:</CRATE10-SLOT02_DEVICE>
     <CRATE10-SLOT03_AREA>XX-10SL03:</CRATE10-SLOT03_AREA>
@@ -499,7 +499,7 @@
     <CRATE10-SLOT24_AREA>XX-10SL24:</CRATE10-SLOT24_AREA>
     <CRATE10-SLOT24_DEVICE>DI-BPM:</CRATE10-SLOT24_DEVICE>
     <CRATE11-SLOT01_AREA>XX-11SL01:</CRATE11-SLOT01_AREA>
-    <CRATE11-SLOT01_DEVICE>DI-BPM:</CRATE11-SLOT01_DEVICE>
+    <CRATE11-SLOT01_DEVICE>TI-EVR:</CRATE11-SLOT01_DEVICE>
     <CRATE11-SLOT02_AREA>XX-11SL02:</CRATE11-SLOT02_AREA>
     <CRATE11-SLOT02_DEVICE>DI-BPM:</CRATE11-SLOT02_DEVICE>
     <CRATE11-SLOT03_AREA>XX-11SL03:</CRATE11-SLOT03_AREA>
@@ -547,7 +547,7 @@
     <CRATE11-SLOT24_AREA>XX-11SL24:</CRATE11-SLOT24_AREA>
     <CRATE11-SLOT24_DEVICE>DI-BPM:</CRATE11-SLOT24_DEVICE>
     <CRATE12-SLOT01_AREA>XX-12SL01:</CRATE12-SLOT01_AREA>
-    <CRATE12-SLOT01_DEVICE>DI-BPM:</CRATE12-SLOT01_DEVICE>
+    <CRATE12-SLOT01_DEVICE>TI-EVR:</CRATE12-SLOT01_DEVICE>
     <CRATE12-SLOT02_AREA>XX-12SL02:</CRATE12-SLOT02_AREA>
     <CRATE12-SLOT02_DEVICE>DI-BPM:</CRATE12-SLOT02_DEVICE>
     <CRATE12-SLOT03_AREA>XX-12SL03:</CRATE12-SLOT03_AREA>
@@ -595,7 +595,7 @@
     <CRATE12-SLOT24_AREA>XX-12SL24:</CRATE12-SLOT24_AREA>
     <CRATE12-SLOT24_DEVICE>DI-BPM:</CRATE12-SLOT24_DEVICE>
     <CRATE13-SLOT01_AREA>XX-13SL01:</CRATE13-SLOT01_AREA>
-    <CRATE13-SLOT01_DEVICE>DI-BPM:</CRATE13-SLOT01_DEVICE>
+    <CRATE13-SLOT01_DEVICE>TI-EVR:</CRATE13-SLOT01_DEVICE>
     <CRATE13-SLOT02_AREA>XX-13SL02:</CRATE13-SLOT02_AREA>
     <CRATE13-SLOT02_DEVICE>DI-BPM:</CRATE13-SLOT02_DEVICE>
     <CRATE13-SLOT03_AREA>XX-13SL03:</CRATE13-SLOT03_AREA>
@@ -643,7 +643,7 @@
     <CRATE13-SLOT24_AREA>XX-13SL24:</CRATE13-SLOT24_AREA>
     <CRATE13-SLOT24_DEVICE>DI-BPM:</CRATE13-SLOT24_DEVICE>
     <CRATE14-SLOT01_AREA>XX-14SL01:</CRATE14-SLOT01_AREA>
-    <CRATE14-SLOT01_DEVICE>DI-BPM:</CRATE14-SLOT01_DEVICE>
+    <CRATE14-SLOT01_DEVICE>TI-EVR:</CRATE14-SLOT01_DEVICE>
     <CRATE14-SLOT02_AREA>XX-14SL02:</CRATE14-SLOT02_AREA>
     <CRATE14-SLOT02_DEVICE>DI-BPM:</CRATE14-SLOT02_DEVICE>
     <CRATE14-SLOT03_AREA>XX-14SL03:</CRATE14-SLOT03_AREA>
@@ -691,7 +691,7 @@
     <CRATE14-SLOT24_AREA>XX-14SL24:</CRATE14-SLOT24_AREA>
     <CRATE14-SLOT24_DEVICE>DI-BPM:</CRATE14-SLOT24_DEVICE>
     <CRATE15-SLOT01_AREA>XX-15SL01:</CRATE15-SLOT01_AREA>
-    <CRATE15-SLOT01_DEVICE>DI-BPM:</CRATE15-SLOT01_DEVICE>
+    <CRATE15-SLOT01_DEVICE>TI-EVR:</CRATE15-SLOT01_DEVICE>
     <CRATE15-SLOT02_AREA>XX-15SL02:</CRATE15-SLOT02_AREA>
     <CRATE15-SLOT02_DEVICE>DI-BPM:</CRATE15-SLOT02_DEVICE>
     <CRATE15-SLOT03_AREA>XX-15SL03:</CRATE15-SLOT03_AREA>
@@ -739,7 +739,7 @@
     <CRATE15-SLOT24_AREA>XX-15SL24:</CRATE15-SLOT24_AREA>
     <CRATE15-SLOT24_DEVICE>DI-BPM:</CRATE15-SLOT24_DEVICE>
     <CRATE16-SLOT01_AREA>XX-16SL01:</CRATE16-SLOT01_AREA>
-    <CRATE16-SLOT01_DEVICE>DI-BPM:</CRATE16-SLOT01_DEVICE>
+    <CRATE16-SLOT01_DEVICE>TI-EVR:</CRATE16-SLOT01_DEVICE>
     <CRATE16-SLOT02_AREA>XX-16SL02:</CRATE16-SLOT02_AREA>
     <CRATE16-SLOT02_DEVICE>DI-BPM:</CRATE16-SLOT02_DEVICE>
     <CRATE16-SLOT03_AREA>XX-16SL03:</CRATE16-SLOT03_AREA>
@@ -787,7 +787,7 @@
     <CRATE16-SLOT24_AREA>XX-16SL24:</CRATE16-SLOT24_AREA>
     <CRATE16-SLOT24_DEVICE>DI-BPM:</CRATE16-SLOT24_DEVICE>
     <CRATE17-SLOT01_AREA>XX-17SL01:</CRATE17-SLOT01_AREA>
-    <CRATE17-SLOT01_DEVICE>DI-BPM:</CRATE17-SLOT01_DEVICE>
+    <CRATE17-SLOT01_DEVICE>TI-EVR:</CRATE17-SLOT01_DEVICE>
     <CRATE17-SLOT02_AREA>XX-17SL02:</CRATE17-SLOT02_AREA>
     <CRATE17-SLOT02_DEVICE>DI-BPM:</CRATE17-SLOT02_DEVICE>
     <CRATE17-SLOT03_AREA>XX-17SL03:</CRATE17-SLOT03_AREA>
@@ -835,7 +835,7 @@
     <CRATE17-SLOT24_AREA>XX-17SL24:</CRATE17-SLOT24_AREA>
     <CRATE17-SLOT24_DEVICE>DI-BPM:</CRATE17-SLOT24_DEVICE>
     <CRATE18-SLOT01_AREA>XX-18SL01:</CRATE18-SLOT01_AREA>
-    <CRATE18-SLOT01_DEVICE>DI-BPM:</CRATE18-SLOT01_DEVICE>
+    <CRATE18-SLOT01_DEVICE>TI-EVR:</CRATE18-SLOT01_DEVICE>
     <CRATE18-SLOT02_AREA>XX-18SL02:</CRATE18-SLOT02_AREA>
     <CRATE18-SLOT02_DEVICE>DI-BPM:</CRATE18-SLOT02_DEVICE>
     <CRATE18-SLOT03_AREA>XX-18SL03:</CRATE18-SLOT03_AREA>
@@ -883,7 +883,7 @@
     <CRATE18-SLOT24_AREA>XX-18SL24:</CRATE18-SLOT24_AREA>
     <CRATE18-SLOT24_DEVICE>DI-BPM:</CRATE18-SLOT24_DEVICE>
     <CRATE19-SLOT01_AREA>XX-19SL01:</CRATE19-SLOT01_AREA>
-    <CRATE19-SLOT01_DEVICE>DI-BPM:</CRATE19-SLOT01_DEVICE>
+    <CRATE19-SLOT01_DEVICE>TI-EVR:</CRATE19-SLOT01_DEVICE>
     <CRATE19-SLOT02_AREA>XX-19SL02:</CRATE19-SLOT02_AREA>
     <CRATE19-SLOT02_DEVICE>DI-BPM:</CRATE19-SLOT02_DEVICE>
     <CRATE19-SLOT03_AREA>XX-19SL03:</CRATE19-SLOT03_AREA>
@@ -931,7 +931,7 @@
     <CRATE19-SLOT24_AREA>XX-19SL24:</CRATE19-SLOT24_AREA>
     <CRATE19-SLOT24_DEVICE>DI-BPM:</CRATE19-SLOT24_DEVICE>
     <CRATE20-SLOT01_AREA>XX-20SL01:</CRATE20-SLOT01_AREA>
-    <CRATE20-SLOT01_DEVICE>DI-BPM:</CRATE20-SLOT01_DEVICE>
+    <CRATE20-SLOT01_DEVICE>TI-EVR:</CRATE20-SLOT01_DEVICE>
     <CRATE20-SLOT02_AREA>XX-20SL02:</CRATE20-SLOT02_AREA>
     <CRATE20-SLOT02_DEVICE>DI-BPM:</CRATE20-SLOT02_DEVICE>
     <CRATE20-SLOT03_AREA>XX-20SL03:</CRATE20-SLOT03_AREA>
@@ -979,7 +979,7 @@
     <CRATE20-SLOT24_AREA>XX-20SL24:</CRATE20-SLOT24_AREA>
     <CRATE20-SLOT24_DEVICE>DI-BPM:</CRATE20-SLOT24_DEVICE>
     <CRATE21-SLOT01_AREA>XX-21SL01:</CRATE21-SLOT01_AREA>
-    <CRATE21-SLOT01_DEVICE>DI-BPM:</CRATE21-SLOT01_DEVICE>
+    <CRATE21-SLOT01_DEVICE>TI-EVR:</CRATE21-SLOT01_DEVICE>
     <CRATE21-SLOT02_AREA>XX-21SL02:</CRATE21-SLOT02_AREA>
     <CRATE21-SLOT02_DEVICE>DI-BPM:</CRATE21-SLOT02_DEVICE>
     <CRATE21-SLOT03_AREA>XX-21SL03:</CRATE21-SLOT03_AREA>
@@ -1027,7 +1027,7 @@
     <CRATE21-SLOT24_AREA>TB-04:</CRATE21-SLOT24_AREA>
     <CRATE21-SLOT24_DEVICE>DI-BPM:</CRATE21-SLOT24_DEVICE>
     <CRATE22-SLOT01_AREA>XX-22SL01:</CRATE22-SLOT01_AREA>
-    <CRATE22-SLOT01_DEVICE>DI-BPM:</CRATE22-SLOT01_DEVICE>
+    <CRATE22-SLOT01_DEVICE>TI-EVR:</CRATE22-SLOT01_DEVICE>
     <CRATE22-SLOT02_AREA>XX-22SL02:</CRATE22-SLOT02_AREA>
     <CRATE22-SLOT02_DEVICE>DI-BPM:</CRATE22-SLOT02_DEVICE>
     <CRATE22-SLOT03_AREA>XX-22SL03:</CRATE22-SLOT03_AREA>
@@ -4936,7 +4936,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -6428,94 +6428,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-6021</wuid>
     <x>200</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE01-SLOT23_AREA)</P>
-          <R>$(CRATE01-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_1_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE01-SLOT23_AREA)$(CRATE01-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE01-SLOT23_AREA)$(CRATE01-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6022</wuid>
-    <x>200</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -9339,94 +9251,6 @@ $(pv_value)</tooltip>
         <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE03-SLOT23_AREA)</P>
-          <R>$(CRATE03-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_3_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE03-SLOT23_AREA)$(CRATE03-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE03-SLOT23_AREA)$(CRATE03-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6070</wuid>
-    <x>258</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE04-SLOT07_AREA)</P>
           <R>$(CRATE04-SLOT07_DEVICE)</R>
         </macros>
@@ -12236,94 +12060,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-6117</wuid>
     <x>316</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE05-SLOT23_AREA)</P>
-          <R>$(CRATE05-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_5_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE05-SLOT23_AREA)$(CRATE05-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE05-SLOT23_AREA)$(CRATE05-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6118</wuid>
-    <x>316</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -15147,94 +14883,6 @@ $(pv_value)</tooltip>
         <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE07-SLOT23_AREA)</P>
-          <R>$(CRATE07-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_7_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE07-SLOT23_AREA)$(CRATE07-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE07-SLOT23_AREA)$(CRATE07-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6166</wuid>
-    <x>374</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE08-SLOT07_AREA)</P>
           <R>$(CRATE08-SLOT07_DEVICE)</R>
         </macros>
@@ -18051,94 +17699,6 @@ $(pv_value)</tooltip>
         <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE09-SLOT23_AREA)</P>
-          <R>$(CRATE09-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_9_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE09-SLOT23_AREA)$(CRATE09-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE09-SLOT23_AREA)$(CRATE09-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6214</wuid>
-    <x>432</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE10-SLOT07_AREA)</P>
           <R>$(CRATE10-SLOT07_DEVICE)</R>
         </macros>
@@ -20948,94 +20508,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-6261</wuid>
     <x>490</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE11-SLOT23_AREA)</P>
-          <R>$(CRATE11-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_11_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE11-SLOT23_AREA)$(CRATE11-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE11-SLOT23_AREA)$(CRATE11-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6262</wuid>
-    <x>490</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -23869,94 +23341,6 @@ $(pv_value)</tooltip>
         <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE13-SLOT23_AREA)</P>
-          <R>$(CRATE13-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_13_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE13-SLOT23_AREA)$(CRATE13-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE13-SLOT23_AREA)$(CRATE13-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6310</wuid>
-    <x>548</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE14-SLOT07_AREA)</P>
           <R>$(CRATE14-SLOT07_DEVICE)</R>
         </macros>
@@ -26766,94 +26150,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-6357</wuid>
     <x>606</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE15-SLOT23_AREA)</P>
-          <R>$(CRATE15-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_15_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE15-SLOT23_AREA)$(CRATE15-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE15-SLOT23_AREA)$(CRATE15-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6358</wuid>
-    <x>606</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -29677,94 +28973,6 @@ $(pv_value)</tooltip>
         <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE17-SLOT23_AREA)</P>
-          <R>$(CRATE17-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_17_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE17-SLOT23_AREA)$(CRATE17-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE17-SLOT23_AREA)$(CRATE17-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6406</wuid>
-    <x>664</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE18-SLOT07_AREA)</P>
           <R>$(CRATE18-SLOT07_DEVICE)</R>
         </macros>
@@ -32574,94 +31782,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-6453</wuid>
     <x>722</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE19-SLOT23_AREA)</P>
-          <R>$(CRATE19-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_BPM_status_19_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE19-SLOT23_AREA)$(CRATE19-SLOT23_DEVICE)asyn.CNCT</pv>
-        <pv trig="true">$(CRATE19-SLOT23_AREA)$(CRATE19-SLOT23_DEVICE)asyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-6454</wuid>
-    <x>722</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -36101,94 +35221,6 @@ $(pv_value)</tooltip>
         <path>BPMRFFEStatus.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE01-SLOT23_AREA)</P>
-          <R>$(CRATE01-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_1_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE01-SLOT23_AREA)$(CRATE01-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE01-SLOT23_AREA)$(CRATE01-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8022</wuid>
-    <x>190</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE02-SLOT11_AREA)</P>
           <R>$(CRATE02-SLOT11_DEVICE)</R>
         </macros>
@@ -38294,94 +37326,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-8069</wuid>
     <x>248</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE03-SLOT23_AREA)</P>
-          <R>$(CRATE03-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_3_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE03-SLOT23_AREA)$(CRATE03-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE03-SLOT23_AREA)$(CRATE03-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8070</wuid>
-    <x>248</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -40501,94 +39445,6 @@ $(pv_value)</tooltip>
         <path>BPMRFFEStatus.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE05-SLOT23_AREA)</P>
-          <R>$(CRATE05-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_5_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE05-SLOT23_AREA)$(CRATE05-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE05-SLOT23_AREA)$(CRATE05-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8118</wuid>
-    <x>306</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE06-SLOT11_AREA)</P>
           <R>$(CRATE06-SLOT11_DEVICE)</R>
         </macros>
@@ -42694,94 +41550,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-8165</wuid>
     <x>364</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE07-SLOT23_AREA)</P>
-          <R>$(CRATE07-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_7_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE07-SLOT23_AREA)$(CRATE07-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE07-SLOT23_AREA)$(CRATE07-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8166</wuid>
-    <x>364</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -44901,94 +43669,6 @@ $(pv_value)</tooltip>
         <path>BPMRFFEStatus.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE09-SLOT23_AREA)</P>
-          <R>$(CRATE09-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_9_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE09-SLOT23_AREA)$(CRATE09-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE09-SLOT23_AREA)$(CRATE09-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8214</wuid>
-    <x>422</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE10-SLOT11_AREA)</P>
           <R>$(CRATE10-SLOT11_DEVICE)</R>
         </macros>
@@ -47094,94 +45774,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-8261</wuid>
     <x>480</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE11-SLOT23_AREA)</P>
-          <R>$(CRATE11-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_11_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE11-SLOT23_AREA)$(CRATE11-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE11-SLOT23_AREA)$(CRATE11-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8262</wuid>
-    <x>480</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -49301,94 +47893,6 @@ $(pv_value)</tooltip>
         <path>BPMRFFEStatus.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE13-SLOT23_AREA)</P>
-          <R>$(CRATE13-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_13_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE13-SLOT23_AREA)$(CRATE13-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE13-SLOT23_AREA)$(CRATE13-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8310</wuid>
-    <x>538</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE14-SLOT11_AREA)</P>
           <R>$(CRATE14-SLOT11_DEVICE)</R>
         </macros>
@@ -51494,94 +49998,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-8357</wuid>
     <x>596</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE15-SLOT23_AREA)</P>
-          <R>$(CRATE15-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_15_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE15-SLOT23_AREA)$(CRATE15-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE15-SLOT23_AREA)$(CRATE15-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8358</wuid>
-    <x>596</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -53701,94 +52117,6 @@ $(pv_value)</tooltip>
         <path>BPMRFFEStatus.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE17-SLOT23_AREA)</P>
-          <R>$(CRATE17-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_17_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE17-SLOT23_AREA)$(CRATE17-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE17-SLOT23_AREA)$(CRATE17-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8406</wuid>
-    <x>654</x>
-    <y>576</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE18-SLOT11_AREA)</P>
           <R>$(CRATE18-SLOT11_DEVICE)</R>
         </macros>
@@ -55894,94 +54222,6 @@ $(pv_value)</tooltip>
     <wuid>4b176946:14ef51d6cd0:-8453</wuid>
     <x>712</x>
     <y>547</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false">
-      <action type="OPEN_DISPLAY">
-        <path>BPMRFFEStatus.opi</path>
-        <macros>
-          <include_parent_macros>true</include_parent_macros>
-          <P>$(CRATE19-SLOT23_AREA)</P>
-          <R>$(CRATE19-SLOT23_DEVICE)</R>
-        </macros>
-        <mode>7</mode>
-        <description></description>
-      </action>
-    </actions>
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>2</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>20</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_RFFE_status_19_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Connectivity" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="pv1 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE19-SLOT23_AREA)$(CRATE19-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
-        <pv trig="true">$(CRATE19-SLOT23_AREA)$(CRATE19-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)$(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>10</width>
-    <wuid>4b176946:14ef51d6cd0:-8454</wuid>
-    <x>712</x>
-    <y>576</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
@@ -59661,78 +57901,6 @@ $(pv_value)</tooltip>
     </line_color>
     <line_style>0</line_style>
     <line_width>0</line_width>
-    <name>Rectangle_Locked_1_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE01-SLOT23_AREA)$(CRATE01-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6022</wuid>
-    <x>190</x>
-    <y>570</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
     <name>Rectangle_Locked_2_11</name>
     <pv_name></pv_name>
     <pv_value />
@@ -61422,78 +59590,6 @@ $(pv_value)</tooltip>
     <wuid>-11e5154c:15f4f97da04:-6069</wuid>
     <x>248</x>
     <y>541</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_Locked_3_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE03-SLOT23_AREA)$(CRATE03-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6070</wuid>
-    <x>248</x>
-    <y>570</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false" />
@@ -63261,78 +61357,6 @@ $(pv_value)</tooltip>
     </line_color>
     <line_style>0</line_style>
     <line_width>0</line_width>
-    <name>Rectangle_Locked_5_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE05-SLOT23_AREA)$(CRATE05-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6118</wuid>
-    <x>306</x>
-    <y>570</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
     <name>Rectangle_Locked_6_11</name>
     <pv_name></pv_name>
     <pv_value />
@@ -65022,78 +63046,6 @@ $(pv_value)</tooltip>
     <wuid>-11e5154c:15f4f97da04:-6165</wuid>
     <x>364</x>
     <y>541</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_Locked_7_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE07-SLOT23_AREA)$(CRATE07-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6166</wuid>
-    <x>364</x>
-    <y>570</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false" />
@@ -66861,78 +64813,6 @@ $(pv_value)</tooltip>
     </line_color>
     <line_style>0</line_style>
     <line_width>0</line_width>
-    <name>Rectangle_Locked_9_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE09-SLOT23_AREA)$(CRATE09-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6214</wuid>
-    <x>422</x>
-    <y>570</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
     <name>Rectangle_Locked_10_11</name>
     <pv_name></pv_name>
     <pv_value />
@@ -68622,78 +66502,6 @@ $(pv_value)</tooltip>
     <wuid>-11e5154c:15f4f97da04:-6261</wuid>
     <x>480</x>
     <y>541</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_Locked_11_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE11-SLOT23_AREA)$(CRATE11-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6262</wuid>
-    <x>480</x>
-    <y>570</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false" />
@@ -70461,78 +68269,6 @@ $(pv_value)</tooltip>
     </line_color>
     <line_style>0</line_style>
     <line_width>0</line_width>
-    <name>Rectangle_Locked_13_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE13-SLOT23_AREA)$(CRATE13-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6310</wuid>
-    <x>538</x>
-    <y>570</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
     <name>Rectangle_Locked_14_11</name>
     <pv_name></pv_name>
     <pv_value />
@@ -72222,78 +69958,6 @@ $(pv_value)</tooltip>
     <wuid>-11e5154c:15f4f97da04:-6357</wuid>
     <x>596</x>
     <y>541</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_Locked_15_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE15-SLOT23_AREA)$(CRATE15-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6358</wuid>
-    <x>596</x>
-    <y>570</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false" />
@@ -74061,78 +71725,6 @@ $(pv_value)</tooltip>
     </line_color>
     <line_style>0</line_style>
     <line_width>0</line_width>
-    <name>Rectangle_Locked_17_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE17-SLOT23_AREA)$(CRATE17-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6406</wuid>
-    <x>654</x>
-    <y>570</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
     <name>Rectangle_Locked_18_11</name>
     <pv_name></pv_name>
     <pv_value />
@@ -75822,78 +73414,6 @@ $(pv_value)</tooltip>
     <wuid>-11e5154c:15f4f97da04:-6453</wuid>
     <x>712</x>
     <y>541</y>
-  </widget>
-  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
-    <actions hook="true" hook_all="false" />
-    <alarm_pulsing>false</alarm_pulsing>
-    <alpha>255</alpha>
-    <anti_alias>true</anti_alias>
-    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
-    <background_color>
-      <color red="0" green="99" blue="255" />
-    </background_color>
-    <bg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </bg_gradient_color>
-    <border_alarm_sensitive>false</border_alarm_sensitive>
-    <border_color>
-      <color red="0" green="128" blue="255" />
-    </border_color>
-    <border_style>2</border_style>
-    <border_width>1</border_width>
-    <enabled>true</enabled>
-    <fg_gradient_color>
-      <color red="255" green="255" blue="255" />
-    </fg_gradient_color>
-    <fill_level>0.0</fill_level>
-    <font>
-      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
-    </font>
-    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
-    <foreground_color>
-      <color red="255" green="0" blue="0" />
-    </foreground_color>
-    <gradient>false</gradient>
-    <height>7</height>
-    <horizontal_fill>true</horizontal_fill>
-    <line_color>
-      <color red="128" green="0" blue="255" />
-    </line_color>
-    <line_style>0</line_style>
-    <line_width>0</line_width>
-    <name>Rectangle_Locked_19_23</name>
-    <pv_name></pv_name>
-    <pv_value />
-    <rules>
-      <rule name="Locked" prop_id="background_color" out_exp="false">
-        <exp bool_exp="pv0 == 0">
-          <value>
-            <color red="255" green="0" blue="0" />
-          </value>
-        </exp>
-        <exp bool_exp="!(pv0 == 0)">
-          <value>
-            <color red="0" green="255" blue="0" />
-          </value>
-        </exp>
-        <pv trig="true">$(CRATE19-SLOT23_AREA)$(CRATE19-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
-      </rule>
-    </rules>
-    <scale_options>
-      <width_scalable>true</width_scalable>
-      <height_scalable>true</height_scalable>
-      <keep_wh_ratio>false</keep_wh_ratio>
-    </scale_options>
-    <scripts />
-    <tooltip>$(pv_name)
-    $(pv_value)</tooltip>
-    <transparent>false</transparent>
-    <visible>true</visible>
-    <widget_type>Rectangle</widget_type>
-    <width>20</width>
-    <wuid>-11e5154c:15f4f97da04:-6454</wuid>
-    <x>712</x>
-    <y>570</y>
   </widget>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false" />
@@ -77709,7 +75229,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -77797,7 +75317,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -77885,7 +75405,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -77973,7 +75493,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78061,7 +75581,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78149,7 +75669,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78237,7 +75757,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78325,7 +75845,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78413,7 +75933,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78501,7 +76021,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78589,7 +76109,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78677,7 +76197,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78765,7 +76285,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78853,7 +76373,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -78941,7 +76461,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -79029,7 +76549,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -79117,7 +76637,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -79205,7 +76725,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -79293,7 +76813,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -79381,7 +76901,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatusSimple.opi</path>
+        <path>../tim-rx-epics-ioc/op/opi/AFC-EVR.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE01-SLOT01_AREA)</P>
@@ -82162,5 +79682,2485 @@ $(pv_value)</tooltip>
       <x>0</x>
       <y>53</y>
     </widget>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE02-SLOT23_AREA)</P>
+          <R>$(CRATE02-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_2_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE02-SLOT23_AREA)$(CRATE02-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE02-SLOT23_AREA)$(CRATE02-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14a7</wuid>
+    <x>229</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE04-SLOT23_AREA)</P>
+          <R>$(CRATE04-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_4_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE04-SLOT23_AREA)$(CRATE04-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE04-SLOT23_AREA)$(CRATE04-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14a8</wuid>
+    <x>287</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE06-SLOT23_AREA)</P>
+          <R>$(CRATE06-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_6_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE06-SLOT23_AREA)$(CRATE06-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE06-SLOT23_AREA)$(CRATE06-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14a9</wuid>
+    <x>345</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE08-SLOT23_AREA)</P>
+          <R>$(CRATE08-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_8_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE08-SLOT23_AREA)$(CRATE08-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE08-SLOT23_AREA)$(CRATE08-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14aa</wuid>
+    <x>403</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE10-SLOT23_AREA)</P>
+          <R>$(CRATE10-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_10_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE10-SLOT23_AREA)$(CRATE10-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE10-SLOT23_AREA)$(CRATE10-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14ab</wuid>
+    <x>461</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE12-SLOT23_AREA)</P>
+          <R>$(CRATE12-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_12_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE12-SLOT23_AREA)$(CRATE12-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE12-SLOT23_AREA)$(CRATE12-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14ac</wuid>
+    <x>519</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE14-SLOT23_AREA)</P>
+          <R>$(CRATE14-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_14_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE14-SLOT23_AREA)$(CRATE14-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE14-SLOT23_AREA)$(CRATE14-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14ad</wuid>
+    <x>577</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE16-SLOT23_AREA)</P>
+          <R>$(CRATE16-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_16_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE16-SLOT23_AREA)$(CRATE16-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE16-SLOT23_AREA)$(CRATE16-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14ae</wuid>
+    <x>635</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE18-SLOT23_AREA)</P>
+          <R>$(CRATE18-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_18_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE18-SLOT23_AREA)$(CRATE18-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE18-SLOT23_AREA)$(CRATE18-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14af</wuid>
+    <x>693</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE20-SLOT23_AREA)</P>
+          <R>$(CRATE20-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_BPM_status_20_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE20-SLOT23_AREA)$(CRATE20-SLOT23_DEVICE)asyn.CNCT</pv>
+        <pv trig="true">$(CRATE20-SLOT23_AREA)$(CRATE20-SLOT23_DEVICE)asyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b0</wuid>
+    <x>751</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE02-SLOT23_AREA)</P>
+          <R>$(CRATE02-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_2_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE02-SLOT23_AREA)$(CRATE02-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE02-SLOT23_AREA)$(CRATE02-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b1</wuid>
+    <x>219</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE04-SLOT23_AREA)</P>
+          <R>$(CRATE04-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_4_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE04-SLOT23_AREA)$(CRATE04-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE04-SLOT23_AREA)$(CRATE04-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b2</wuid>
+    <x>277</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE06-SLOT23_AREA)</P>
+          <R>$(CRATE06-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_6_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE06-SLOT23_AREA)$(CRATE06-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE06-SLOT23_AREA)$(CRATE06-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b3</wuid>
+    <x>335</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE08-SLOT23_AREA)</P>
+          <R>$(CRATE08-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_8_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE08-SLOT23_AREA)$(CRATE08-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE08-SLOT23_AREA)$(CRATE08-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b4</wuid>
+    <x>393</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE10-SLOT23_AREA)</P>
+          <R>$(CRATE10-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_10_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE10-SLOT23_AREA)$(CRATE10-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE10-SLOT23_AREA)$(CRATE10-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b5</wuid>
+    <x>451</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE12-SLOT23_AREA)</P>
+          <R>$(CRATE12-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_12_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE12-SLOT23_AREA)$(CRATE12-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE12-SLOT23_AREA)$(CRATE12-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b6</wuid>
+    <x>509</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE14-SLOT23_AREA)</P>
+          <R>$(CRATE14-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_14_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE14-SLOT23_AREA)$(CRATE14-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE14-SLOT23_AREA)$(CRATE14-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b7</wuid>
+    <x>567</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE16-SLOT23_AREA)</P>
+          <R>$(CRATE16-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_16_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE16-SLOT23_AREA)$(CRATE16-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE16-SLOT23_AREA)$(CRATE16-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b8</wuid>
+    <x>625</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE18-SLOT23_AREA)</P>
+          <R>$(CRATE18-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_18_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE18-SLOT23_AREA)$(CRATE18-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE18-SLOT23_AREA)$(CRATE18-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14b9</wuid>
+    <x>683</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false">
+      <action type="OPEN_DISPLAY">
+        <path>BPMRFFEStatus.opi</path>
+        <macros>
+          <include_parent_macros>true</include_parent_macros>
+          <P>$(CRATE20-SLOT23_AREA)</P>
+          <R>$(CRATE20-SLOT23_DEVICE)</R>
+        </macros>
+        <mode>7</mode>
+        <description></description>
+      </action>
+    </actions>
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>2</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>20</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_RFFE_status_20_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Connectivity" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="pv1 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0) &amp;&amp; !(pv1 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE20-SLOT23_AREA)$(CRATE20-SLOT23_DEVICE)RFFEasyn.CNCT</pv>
+        <pv trig="true">$(CRATE20-SLOT23_AREA)$(CRATE20-SLOT23_DEVICE)RFFEasyn.ENBL</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)$(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>10</width>
+    <wuid>4ad90960:16654034873:14ba</wuid>
+    <x>741</x>
+    <y>576</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_2_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE02-SLOT23_AREA)$(CRATE02-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14bb</wuid>
+    <x>219</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_4_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE04-SLOT23_AREA)$(CRATE04-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14bc</wuid>
+    <x>277</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_6_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE06-SLOT23_AREA)$(CRATE06-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14bd</wuid>
+    <x>335</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_8_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE08-SLOT23_AREA)$(CRATE08-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14be</wuid>
+    <x>393</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_10_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE10-SLOT23_AREA)$(CRATE10-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14bf</wuid>
+    <x>451</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_12_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE12-SLOT23_AREA)$(CRATE12-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14c0</wuid>
+    <x>509</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_14_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE14-SLOT23_AREA)$(CRATE14-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14c1</wuid>
+    <x>567</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_16_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE16-SLOT23_AREA)$(CRATE16-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14c2</wuid>
+    <x>625</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_18_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE18-SLOT23_AREA)$(CRATE18-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14c3</wuid>
+    <x>683</x>
+    <y>570</y>
+  </widget>
+  <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
+    <actions hook="true" hook_all="false" />
+    <alarm_pulsing>false</alarm_pulsing>
+    <alpha>255</alpha>
+    <anti_alias>true</anti_alias>
+    <backcolor_alarm_sensitive>true</backcolor_alarm_sensitive>
+    <background_color>
+      <color red="0" green="99" blue="255" />
+    </background_color>
+    <bg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </bg_gradient_color>
+    <border_alarm_sensitive>false</border_alarm_sensitive>
+    <border_color>
+      <color red="0" green="128" blue="255" />
+    </border_color>
+    <border_style>2</border_style>
+    <border_width>1</border_width>
+    <enabled>true</enabled>
+    <fg_gradient_color>
+      <color red="255" green="255" blue="255" />
+    </fg_gradient_color>
+    <fill_level>0.0</fill_level>
+    <font>
+      <opifont.name fontName="Sans" height="10" style="0" pixels="false">Default</opifont.name>
+    </font>
+    <forecolor_alarm_sensitive>false</forecolor_alarm_sensitive>
+    <foreground_color>
+      <color red="255" green="0" blue="0" />
+    </foreground_color>
+    <gradient>false</gradient>
+    <height>7</height>
+    <horizontal_fill>true</horizontal_fill>
+    <line_color>
+      <color red="128" green="0" blue="255" />
+    </line_color>
+    <line_style>0</line_style>
+    <line_width>0</line_width>
+    <name>Rectangle_Locked_20_23</name>
+    <pv_name></pv_name>
+    <pv_value />
+    <rules>
+      <rule name="Locked" prop_id="background_color" out_exp="false">
+        <exp bool_exp="pv0 == 0">
+          <value>
+            <color red="255" green="0" blue="0" />
+          </value>
+        </exp>
+        <exp bool_exp="!(pv0 == 0)">
+          <value>
+            <color red="0" green="255" blue="0" />
+          </value>
+        </exp>
+        <pv trig="true">$(CRATE20-SLOT23_AREA)$(CRATE20-SLOT23_DEVICE)ADCAD9510PllStatus-Mon</pv>
+      </rule>
+    </rules>
+    <scale_options>
+      <width_scalable>true</width_scalable>
+      <height_scalable>true</height_scalable>
+      <keep_wh_ratio>false</keep_wh_ratio>
+    </scale_options>
+    <scripts />
+    <tooltip>$(pv_name)
+    $(pv_value)</tooltip>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <widget_type>Rectangle</widget_type>
+    <width>20</width>
+    <wuid>4ad90960:16654034873:14c4</wuid>
+    <x>741</x>
+    <y>570</y>
   </widget>
 </display>
