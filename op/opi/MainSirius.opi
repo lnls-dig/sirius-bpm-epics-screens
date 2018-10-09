@@ -79686,7 +79686,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE02-SLOT23_AREA)</P>
@@ -79774,7 +79774,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE04-SLOT23_AREA)</P>
@@ -79862,7 +79862,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE06-SLOT23_AREA)</P>
@@ -79950,7 +79950,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE08-SLOT23_AREA)</P>
@@ -80038,7 +80038,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE10-SLOT23_AREA)</P>
@@ -80126,7 +80126,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE12-SLOT23_AREA)</P>
@@ -80214,7 +80214,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE14-SLOT23_AREA)</P>
@@ -80302,7 +80302,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE16-SLOT23_AREA)</P>
@@ -80390,7 +80390,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE18-SLOT23_AREA)</P>
@@ -80478,7 +80478,7 @@ $(pv_value)</tooltip>
   <widget typeId="org.csstudio.opibuilder.widgets.Rectangle" version="1.0.0">
     <actions hook="true" hook_all="false">
       <action type="OPEN_DISPLAY">
-        <path>BPMStatus.opi</path>
+        <path>BPMStatusSimple.opi</path>
         <macros>
           <include_parent_macros>true</include_parent_macros>
           <P>$(CRATE20-SLOT23_AREA)</P>
