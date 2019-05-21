@@ -1,6 +1,0 @@
-[submodule "submodules/bpm-epics-ioc"]
-	path = submodules/bpm-epics-ioc
-	url = https://github.com/lnls-dig/bpm-epics-ioc
-[submodule "submodules/tim-rx-epics-ioc"]
-	path = submodules/tim-rx-epics-ioc
-	url = https://github.com/lnls-dig/tim-rx-epics-ioc
